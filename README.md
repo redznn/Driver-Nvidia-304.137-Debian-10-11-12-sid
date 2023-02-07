@@ -4,6 +4,10 @@
 # Debian 10/11/12 64 BITS
 Kernel 5.15 up to 6.1 and maybe 6.2
 
+# Observation
+If u are using xfce4 u need to disable window composer
+This dont support GUI very heavy like Gnome KDE etc
+
 # Supports:
 Cards supported by this Nvidia 304.137 driver:
 GeForce 7 Series:

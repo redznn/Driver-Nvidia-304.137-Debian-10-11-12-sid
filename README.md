@@ -6,6 +6,7 @@ Kernel 5.15 up to 6.1 and maybe 6.2
 
 # Observation
 If u are using xfce4 u need to disable window composer
+
 This dont support GUI very heavy like Gnome KDE etc
 
 # Supports:
